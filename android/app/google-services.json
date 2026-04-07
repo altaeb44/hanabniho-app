@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169591806902",
+    "project_id": "hanabniho-798c8",
+    "storage_bucket": "hanabniho-798c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169591806902:android:711a8575e0fed387067f17",
+        "android_client_info": {
+          "package_name": "com.sudan.hanabniho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVI9cIbk847oLljQjWuY_RAc0ldrZ3cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
