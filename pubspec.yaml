@@ -1,0 +1,23 @@
+name: hanabniho
+description: A new Flutter project for Sudan.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.8.0
+  battery_plus: ^4.0.2
+  lottie: ^2.6.0
+  google_mobile_ads: ^3.0.0
+  wakelock_plus: ^1.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
